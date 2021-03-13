@@ -23,8 +23,6 @@
 
 # 檔案平台上傳連結
 <a href="https://reurl.cc/pmYdxx">平台 #1</a><br>
-平台 #2 建置中<br>
-
 
 ## 使用說明
 首先請先登入Google帳號
