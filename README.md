@@ -30,7 +30,7 @@
 
 接下來，請填寫表單的電子郵件（您之後會收到包含檔案連結的回條），上傳檔案
 勾選同意條款後，按下提交即可
-<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/example-form.JPG"></img>
+<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/form-example.JPG"></img>
 
 看到這個畫面表示上傳完成，稍後您就會在信箱看到包含連結的回條了。
 <img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/uploaded.JPG"></img>
