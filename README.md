@@ -6,6 +6,7 @@
 * 上傳後會將內容回條寄送到您填寫的電子郵件地址。裡面會包含同個平台，其他使用者所上傳的內容。
 * 每個表單存放的內容有一定大小上限，如果滿了無法上傳的話，請換一個表單試試。
 
+
 ## 使用條款
 <a href="https://fb.co/iambjlu_blog">管理員及聯絡方式：蘿蔔的部落格</a>
 <pre>
@@ -20,9 +21,11 @@
 * 管理員隨時都有關閉此服務或更改條款的權利，不另行通知。
 </pre>
 
+
 ## 表單平台連結
 <a href="https://reurl.cc/pmYdxx">平台 #1</a><br>
 平台 #2 建置中<br>
+
 
 # 使用說明
 首先請先登入Google帳號
@@ -30,7 +33,7 @@
 
 接下來，請填寫表單的電子郵件（您之後會收到包含檔案連結的回條），上傳檔案
 勾選同意條款後，按下提交即可
-<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/form.JPG"></img>
+<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/example-form.JPG"></img>
 
 看到這個畫面表示上傳完成，稍後您就會在信箱看到包含連結的回條了。
 <img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/uploaded.JPG"></img>
