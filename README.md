@@ -19,9 +19,10 @@
 * 管理員隨時都有關閉此服務或更改條款的權利，不另行通知。
 </pre>
 
-<h2>
+## 表單平台連結
 <a href="https://reurl.cc/pmYdxx">平台 #1</a><br>
 平台 #2 建置中<br>
-</h2>
 
 # 使用說明
+首先請先登入Google帳號
+<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/uploaded.JPG"
