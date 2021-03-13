@@ -26,7 +26,7 @@
 平台 #2 建置中<br>
 
 
-# 使用說明
+## 使用說明
 首先請先登入Google帳號
 <img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/login.JPG"></img>
 
