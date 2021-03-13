@@ -21,7 +21,7 @@
 
 <h1>
 <a href="https://reurl.cc/pmYdxx">平台 #1</a><br>
-平台 #2 建置中><br>
+平台 #2 建置中<br>
 </h1>
 
 # 使用說明
