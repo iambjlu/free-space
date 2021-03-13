@@ -25,4 +25,14 @@
 
 # 使用說明
 首先請先登入Google帳號
-<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/uploaded.JPG"
+<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/login.JPG"></img>
+
+接下來，請填寫表單的電子郵件（您之後會收到包含檔案連結的回條），上傳檔案
+勾選同意條款後，按下提交即可
+<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/form.JPG"></img>
+
+看到這個畫面表示上傳完成，稍後您就會在信箱看到包含連結的回條了。
+<img src="https://raw.githubusercontent.com/iambjlu/free-space/main/User-Guide/uploaded.JPG"></img>
+
+## 如何分享上傳的檔案呢？
+您可以在收到的電子郵件回條內找到檔案夾連結，點開檔案夾後即可設定共用連結
